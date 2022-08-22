@@ -1,0 +1,6 @@
+# eternal-death-virus
+
+
+This virus, which is designed for the Windows operating system, works without the need for installation and only by clicking on the downloaded file and opening it, it performs its activity.
+In such a way that the system is restarted and after turning on this process is repeated without stopping....
+This process is stopped by turning off the system, but there is no way to prevent it! Because by restarting the system, this process will resume...
